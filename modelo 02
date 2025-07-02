@@ -27,10 +27,11 @@
 
           <p>A partir de agora, você faz parte da família <strong>Iben</strong>, um time que coloca excelência, transparência e respeito em cada detalhe do que constrói. Nosso compromisso vai muito além da entrega: queremos que você se sinta acompanhado e bem informado em cada etapa do pós-venda.</p>
 
-          <!-- Imagem da família -->
-          <div style="text-align:center; margin:30px 0;">
-            <img src="https://chatgpt.com/backend-api/estuary/content?id=file-DcXpjpsamzBqUHhbqBXS5Y&ts=486515&p=fs&cid=1&sig=047456019f4c63573746932c008454747167d5be916ae8dc020abf84628ffa81" alt="Família feliz no novo lar" style="max-width:100%; border-radius:8px;" />
-          </div>
+          <tr>
+  <td align="center" style="padding: 40px 20px 20px 20px;">
+    <img src="https://raw.githubusercontent.com/sam111ira/imagem/main/DD511CD4-EDB7-4EA7-8220-3CB0B98F2C34.jpeg" alt="Família feliz no novo lar" style="max-width: 600px; width: 100%; border-radius: 10px;" />
+  </td>
+</tr>
 
           <!-- Bloco de informações -->
           <div style="background-color:#f0f4f4; padding:15px; border-left:5px solid #f4a62b; margin:20px 0;">
