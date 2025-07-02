@@ -11,7 +11,7 @@
       <!-- Cabeçalho com logo -->
       <tr>
         <td align="center" style="background-color:#0f5c59; padding:20px;">
-          <img src="C:\Users\Windows\Downloads\Design sem nome (2).png" alt="Logo Iben" style="max-width:150px;" />
+          <img src="https://i.imgur.com/dK8Fj9N.png" alt="Logo Iben" style="max-width:150px;" />
         </td>
       </tr>
 
@@ -27,11 +27,10 @@
 
           <p>A partir de agora, você faz parte da família <strong>Iben</strong>, um time que coloca excelência, transparência e respeito em cada detalhe do que constrói. Nosso compromisso vai muito além da entrega: queremos que você se sinta acompanhado e bem informado em cada etapa do pós-venda.</p>
 
-          <tr>
-  <td align="center" style="padding: 40px 20px 20px 20px;">
-    <img src="https://raw.githubusercontent.com/sam111ira/imagem/main/DD511CD4-EDB7-4EA7-8220-3CB0B98F2C34.jpeg" alt="Família feliz no novo lar" style="max-width: 600px; width: 100%; border-radius: 10px;" />
-  </td>
-</tr>
+          <!-- Imagem da família -->
+          <div style="text-align:center; margin:30px 0;">
+            <img src="https://raw.githubusercontent.com/sam111ira/imagem/main/DD511CD4-EDB7-4EA7-8220-3CB0B98F2C34.jpeg" alt="Família feliz no novo lar" style="max-width:100%; border-radius:8px;" />
+          </div>
 
           <!-- Bloco de informações -->
           <div style="background-color:#f0f4f4; padding:15px; border-left:5px solid #f4a62b; margin:20px 0;">
