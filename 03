@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Bem-vindo à Iben</title>
+  </head>
+  <body style="margin:0; padding:0; background-color:#f6f6f6; font-family: Arial, sans-serif;">
+
+    <table align="center" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px; margin:0 auto; background-color:#ffffff; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.05); overflow:hidden;">
+      
+      <!-- Cabeçalho com logo -->
+      <tr>
+        <td align="center" style="background-color:#0f5c59; padding:20px;">
+          <img src="file:///C:/Users/Windows/Downloads/Design%20sem%20nome%20(2).png" alt="Logo Iben" style="max-width:150px;" />
+        </td>
+      </tr>
+
+      <!-- Conteúdo -->
+      <tr>
+        <td style="padding:30px 20px; color:#333333;">
+
+          <h1 style="color:#0f5c59; font-size:24px; margin-top:0;">Parabéns pela sua conquista!</h1>
+
+          <p>Olá, <strong>[NOME DO CLIENTE]</strong>!</p>
+
+          <p>Antes de tudo, os nossos mais sinceros parabéns pela sua conquista. Adquirir um imóvel é um passo importante — e é uma honra pra nós fazer parte dessa jornada com você.</p>
+
+          <p>A partir de agora, você faz parte da família <strong>Iben</strong>, um time que coloca excelência, transparência e respeito em cada detalhe do que constrói. Nosso compromisso vai muito além da entrega: queremos que você se sinta acompanhado e bem informado em cada etapa do pós-venda.</p>
+
+          <!-- Imagem da família -->
+          <div style="text-align:center; margin:30px 0;">
+            <img src="https://chatgpt.com/backend-api/estuary/content?id=file-DcXpjpsamzBqUHhbqBXS5Y&ts=486515&p=fs&cid=1&sig=047456019f4c63573746932c008454747167d5be916ae8dc020abf84628ffa81" alt="Família feliz no novo lar" style="max-width:100%; border-radius:8px;" />
+          </div>
+
+          <!-- Bloco de informações -->
+          <div style="background-color:#f0f4f4; padding:15px; border-left:5px solid #f4a62b; margin:20px 0;">
+            <p style="margin:0;"><strong>🛠️ Informações do seu empreendimento</strong><br/>
+            Empreendimento: <strong>[NOME DO EMPREENDIMENTO]</strong><br/>
+            Em breve, você receberá atualizações e novidades diretamente pelos nossos canais oficiais.</p>
+          </div>
+
+          <div style="background-color:#f0f4f4; padding:15px; border-left:5px solid #f4a62b; margin:20px 0;">
+            <p style="margin:0;"><strong>📞 Atendimento e suporte ao cliente</strong><br/>
+            WhatsApp exclusivo: <a href="[LINK WHATSAPP]" style="color:#0f5c59; text-decoration:underline;">[NÚMERO]</a><br/>
+            E-mail: <a href="mailto:[EMAIL]" style="color:#0f5c59; text-decoration:underline;">[EMAIL]</a><br/>
+            Telefone fixo: [TELEFONE]<br/>
+            Atendimento: Segunda a sexta, das 8h às 17h</p>
+          </div>
+
+          <div style="background-color:#f0f4f4; padding:15px; border-left:5px solid #f4a62b; margin:20px 0;">
+            <p style="margin:0;"><strong>🌐 Canais oficiais da Iben</strong><br/>
+            Instagram: <a href="https://www.instagram.com/ibenengenharia" style="color:#0f5c59; text-decoration:underline;">@ibenengenharia</a><br/>
+            Site: <a href="https://www.ibenengenharia.com.br" style="color:#0f5c59; text-decoration:underline;">www.ibenengenharia.com.br</a></p>
+          </div>
+
+          <p>Conte com a gente! Sabemos que esse é um momento cheio de expectativas — e estamos aqui pra garantir que ele seja leve, seguro e especial. Seja pra resolver uma dúvida ou simplesmente conversar, a gente quer estar ao seu lado.</p>
+
+          <p><strong>Seja bem-vindo(a) à sua nova fase. Seja bem-vindo(a) à Iben.</strong></p>
+
+        </td>
+      </tr>
+
+      <!-- Rodapé com logos -->
+      <tr>
+        <td style="background-color:#0f5c59; color:white; text-align:center; padding:20px;">
+          <p style="margin:0;">Equipe Iben Engenharia<br/>
+            <a href="https://www.ibenengenharia.com.br" style="color:white; text-decoration:underline;">www.ibenengenharia.com.br</a> | 
+            <a href="https://www.instagram.com/ibenengenharia" style="color:white; text-decoration:underline;">@ibenengenharia</a>
+          </p>
+          <div style="margin-top:20px;">
+            <img src="[LOGO1]" alt="Empresa 1" style="max-width:80px; margin:0 10px; vertical-align:middle;" />
+            <img src="[LOGO2]" alt="Empresa 2" style="max-width:80px; margin:0 10px; vertical-align:middle;" />
+            <img src="[LOGO3]" alt="Empresa 3" style="max-width:80px; margin:0 10px; vertical-align:middle;" />
+          </div>
+        </td>
+      </tr>
+
+    </table>
+  </body>
+</html>
